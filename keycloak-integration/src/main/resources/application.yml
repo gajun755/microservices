@@ -3,7 +3,7 @@ server:
 
 keycloak:
   realm: keycloak-springboot-demo
-  auth-server-url: http://localhost:8180/auth
+  auth-server-url: http://localhost:8180
   resource: keycloak-springboot-demo
   public-client: true
   bearer-only: true
