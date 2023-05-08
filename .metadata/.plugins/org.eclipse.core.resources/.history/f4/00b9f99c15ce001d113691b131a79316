@@ -4,7 +4,7 @@ public class ProductRestModel {
 
 		private String name;
 		
-		private Integer price;
+		private int price;
 
 		public String getName() {
 			return name;
