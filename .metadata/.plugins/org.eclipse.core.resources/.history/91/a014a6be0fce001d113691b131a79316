@@ -1,0 +1,5 @@
+package com.dedication.product.command.api.controller;
+
+public class ProductCommandController {
+
+}

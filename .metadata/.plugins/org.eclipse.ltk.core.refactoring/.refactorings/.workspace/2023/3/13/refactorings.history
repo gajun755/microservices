@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 14 resources" deleteContents="false" description="Delete 14 resources" element1="/APIGateway" element10="/restaurant-service" element11="/Spring-SSO-okta" element12="/swiggy-app" element13="/swiggy-gateway" element14="/swiggy-service-registry" element2="/DiscoveryServer" element3="/EurekaServer" element4="/identity-service" element5="/InventoryService" element6="/Java8" element7="/keycloak-integration" element8="/OrderService" element9="/ProductService" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="14" stamp="1680075107722"/>
+</session>

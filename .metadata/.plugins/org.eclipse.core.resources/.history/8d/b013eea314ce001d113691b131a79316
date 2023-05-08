@@ -1,0 +1,10 @@
+package com.dedication.product.command.api.model;
+
+public class ProductRestModel {
+
+		private String name;
+		
+		private int price;
+		
+		
+}

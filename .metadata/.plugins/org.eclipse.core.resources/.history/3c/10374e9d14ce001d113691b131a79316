@@ -1,0 +1,5 @@
+package com.dedication.product.command.api.model;
+
+public class ProductRestModel {
+
+}
