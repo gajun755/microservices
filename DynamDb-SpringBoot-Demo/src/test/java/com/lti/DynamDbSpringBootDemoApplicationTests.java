@@ -1,10 +1,10 @@
-package com.dedication.account;
+package com.lti;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AccountServiceApplicationTests {
+class DynamDbSpringBootDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
