@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: eu-north-1
+      auto: false
+    credentials:
+      access-key: AKIAVNUZ3TBWHLZAATPQ
+      secret-key: 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
+    end-point:  
+      uri: https://sqs.eu-north-1.amazonaws.com/372911085676/springboot
